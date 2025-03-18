@@ -50,7 +50,7 @@ const GameSelectionUI: React.FC<GameSelectionUIProps> = ({ isLoading, selectedGa
             {/* Character image */}
             <div className="relative rounded-2xl overflow-hidden border-4 border-white">
               <Image 
-                src="/images/ICON_ image.png" 
+                src="/images/ICON_image.png" 
                 alt="Game Character" 
                 width={180}
                 height={180}
