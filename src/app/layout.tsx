@@ -9,9 +9,9 @@ import React,{ Suspense } from "react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BTFD Web",
+  title: "Bearly Alive",
   description:
-    "BTFD  Web",
+    "Bearly Alive",
 };
 
 export default function RootLayout({

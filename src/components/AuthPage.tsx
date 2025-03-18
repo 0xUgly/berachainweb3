@@ -35,7 +35,7 @@ const GameSelectionUI: React.FC<GameSelectionUIProps> = ({ isLoading, selectedGa
         <div className="relative z-10 mt-4 mb-4 w-full flex justify-center">
           <Image 
             src="/images/Title_Text.png" 
-            alt="BTFD SURVIVAL" 
+            alt="Bearly Alive" 
             width={300}
             height={60}
           />
